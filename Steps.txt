@@ -1,0 +1,19 @@
+#Steps to run the flask app on Docker 
+Install the python 
+#https://www.python.org/downloads/
+create the virtual environment 
+#python -m venv myvenv 
+Install the flask
+#pip install flask 
+Install the Docker 
+#https://docs.docker.com/engine/install/ubuntu/
+Run the flask app on Docker 
+#https://stackoverflow.com/questions/41752405/running-flask-app-in-a-docker-container
+
+
+
+Download Python | Python.org
+https://www.python.org
+
+Ubuntu
+https://docs.docker.com
